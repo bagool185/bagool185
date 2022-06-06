@@ -4,6 +4,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagool185&theme=radical&langs_count=10&layout=compact&hide_border=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
-Currently working on a [Discord watchparty bot](https://github.com/bagool185/watchparty-discord-bot) to manage films for movie nights. 
-
 Btw, I use Arch <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwiki.installgentoo.com%2Fimages%2Ff%2Ff9%2FArch-linux-logo.png&f=1&nofb=1" width="15px"> xD
